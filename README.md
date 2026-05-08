@@ -4,6 +4,10 @@
 
 ---
 
+## 📸 Screenshots
+
+![ALconnects Portfolio](docs/screenshots/alconnects-portfolio.png)
+
 ## ✨ Features
 
 - **Single-file Python server** — runs instantly with no setup
