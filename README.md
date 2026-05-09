@@ -1,14 +1,14 @@
-# ALconnects — Personal Portfolio 🚀
+# ALconnects — Personal Portfolio
 
 > A sleek, dark-themed developer portfolio website for **Arya Lolusare** — AI/ML Engineer from Nagpur, India. Built entirely with Python and vanilla HTML/CSS, zero frameworks, zero dependencies.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![ALconnects Portfolio](docs/screenshots/alconnects-portfolio.png)
 
-## ✨ Features
+## Features
 
 - **Single-file Python server** — runs instantly with no setup
 - **Custom animated cursor** with smooth ring-follow effect
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Tech |
 |-------|------|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **Requirements:** Python 3.x (no pip installs needed)
 
@@ -52,7 +52,7 @@ To stop the server: `Ctrl + C`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ALconnects/
@@ -61,7 +61,7 @@ ALconnects/
 
 ---
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - **Color palette** — deep black `#0a0a0a` base with acid green `#c8f055` accent
 - **Orb animation** — pulsing glowing sphere with 3 rotating orbit rings carrying tech labels
@@ -70,7 +70,7 @@ ALconnects/
 
 ---
 
-## 📌 Sections
+## Sections
 
 | Section | Description |
 |---------|-------------|
@@ -82,7 +82,7 @@ ALconnects/
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Arya Lolusare**
 - 📧 [aryalolusare0909@gmail.com](mailto:aryalolusare0909@gmail.com)
