@@ -8,12 +8,6 @@ A modern full-stack portfolio website showcasing my projects, skills, achievemen
 
 ---
 
-## Live Demo
-
-Portfolio: [https://your-portfolio-link.vercel.app](https://alconnects.vercel.app/)
-
----
-
 ## About Me
 
 I'm a 4th-year Information Technology student passionate about:
